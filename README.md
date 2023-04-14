@@ -1,2 +1,2 @@
 # learngithub
-Learning github for the first time
+Learning github for the first time!
